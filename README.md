@@ -492,7 +492,7 @@ source ~/.zshrc
 ## Versão
 
 - **Versão**: 1.0.0
-- **Autor**: Claude Code Assistant
+- **Autor**: @anderson.lima.dev
 - **Data**: 2025-11-16
 - **Licença**: MIT
 
